@@ -7,7 +7,7 @@ L’objectif de ce projet est de développer une **application Python** permetta
 2. L’écriture de tests unitaires, paramétrés et ciblés avec mock.
 3. La mise en place d’une API Flask et la rédaction de tests fonctionnels.
 4. La configuration de CI/CD avec GitHub Actions (ou self-hosted runner).
-5. Une **analyse de régression linéaire** sur un jeu de données.
+5. Une **analyse de régression linéaire** sur un jeu de données. 
 6. Une **API REST** en Flask pour exposer cette analyse.
 
 
